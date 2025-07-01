@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **virgilhd.25@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1o8qCy-84iHgpH9ceN4sN942_kn-4Xh_0/edit?usp=sharing&ouid=115045759543904427470&rtpof=true&sd=true](https://docs.google.com/document/d/1o8qCy-84iHgpH9ceN4sN942_kn-4Xh_0/edit?usp=sharing&ouid=115045759543904427470&rtpof=true&sd=true)
+- 📄 Know about my experiences at [bit.ly/4nscsaI](bit.ly/4nscsaI)
 
 - ⚡ Fun fact **I'm an adrenaline junkie**
 
@@ -27,4 +27,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=virgilhg&show_icons=true&locale=en&layout=compact" alt="virgilhg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virgilhg&" alt="virgilhg" /></p>
-
