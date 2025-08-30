@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/virgil_hd" target="blank"><img src="https://img.shields.io/twitter/follow/virgil_hd?logo=twitter&style=for-the-badge" alt="virgil_hd" /></a> </p>
 
-- 🌱 I’m currently learning **the MERN stack**
+- 🌱 I’m currently building **An AI Coding Tutor.**
 
 - 👨‍💻 All of my projects are available at [virgilhd.me](virgilhd.me)
 
-- 💬 Ask me about **anything MERN stack**
+- 💬 Ask me about **anything Coding, AI, History, and more.**
 
 - 📫 How to reach me **virgilhd.25@gmail.com**
 
